@@ -1,5 +1,22 @@
 # Welcome to your Expo app 👋
 
+A React Native hotel booking app built with Expo, featuring hotel search, filters, and sorting.
+Features
+✅ Search hotels with a debounced input
+✅ Filter hotels by price, rating.
+✅ Sort hotels by price and rating
+✅ Uses React Query for API optimization
+
+Technologies Used
+
+React Native (UI)
+Expo (Development Framework)
+Zustand (State Management)
+React Navigation (Routing)
+
+
+
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
